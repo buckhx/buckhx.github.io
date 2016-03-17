@@ -1,7 +1,7 @@
 # Site settings
 title: buckhx
 baseurl: "/"
-url: "http://github.com/buckhx"
+url: "https://buckhx.github.io"
 
 # Build settings
 kramdown:
