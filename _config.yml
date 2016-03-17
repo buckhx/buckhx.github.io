@@ -1,6 +1,6 @@
 # Site settings
 title: buckhx
-baseurl: ""
+#baseurl: ""
 url: "https://buckhx.github.io"
 
 # Build settings
